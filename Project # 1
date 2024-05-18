@@ -5,6 +5,6 @@ int main(){
     int x  , y, z;
     x=10,y=10,z=10;
     printf("%d",x+y+z);
-
+    printf("THIS IS THE SUM :");
     return 0;
 }
